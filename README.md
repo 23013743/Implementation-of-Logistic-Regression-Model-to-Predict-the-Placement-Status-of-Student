@@ -17,8 +17,9 @@ Display the results.
 ## Program:
 ```
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
-Developed by: NISHA D
-RegisterNumber:  212223230143
+Developed by: NIRMAL
+RegisterNumber:  212223240107
+
 ```
 ```
 import numpy as np
